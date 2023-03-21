@@ -127,7 +127,7 @@
                                                                                 <MultiDataTrigger.Conditions>
                                                                                     <Condition Binding="{Binding isSelected}" Value="True" />
                                                                                 </MultiDataTrigger.Conditions>
-                                                                                <Setter Property="Background" Value="#7F5B5B5B" />
+                                                                                <Setter Property="Background" Value="#7F38844B" />
                                                                             </MultiDataTrigger>
 
                                                                             <MultiDataTrigger>

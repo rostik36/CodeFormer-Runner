@@ -225,7 +225,9 @@ namespace unblur_upscale
                 input = process.StandardInput;
 
 
-                input.WriteLine("cd \"C:\\Users\\rosti\\CodeFormer\"");
+                string directoryPath = Path.GetDirectoryName(app_PathValue); // get the folder of the python runner
+
+                input.WriteLine("cd \""+ directoryPath+"\"");
                 input.WriteLine("conda activate codeformer");
 
                 
