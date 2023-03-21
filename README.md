@@ -1,6 +1,8 @@
 # CodeFormer-Runner
 
 
+first of all click on the first dir to delect the python app execute file
+![image](https://user-images.githubusercontent.com/7548709/226600175-0386c95d-6a09-4761-934f-8fa3235d6165.png)
 
 
 ![image](https://user-images.githubusercontent.com/7548709/226597150-f5ff646c-f564-4e18-86da-d868d4245b0d.png)
