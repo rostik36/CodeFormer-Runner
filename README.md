@@ -29,7 +29,6 @@ Next select folder with pictures ( can select any, in my example its the images 
 Pictures will be loaded.
 
 
-![image](https://user-images.githubusercontent.com/7548709/226614971-23cb1b2b-9629-4fd9-9083-8270f44ce55b.png)
 
 
 
@@ -42,7 +41,7 @@ Next select folder for the output pictures ( can be any, in my example its the r
 Now click on some images to select tham and click on Start, the first 2 images selected in the example.
 ( Note: you can modify weight and upscale parameters for each image )
 
-![image](https://user-images.githubusercontent.com/7548709/226598413-d61de989-1c13-4e0d-b3a5-af3437fa9afb.png)
+![image](https://user-images.githubusercontent.com/7548709/226614971-23cb1b2b-9629-4fd9-9083-8270f44ce55b.png)
 
 
 Process started wait some time depending on the number of images you selected.
