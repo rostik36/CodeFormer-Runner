@@ -42,4 +42,5 @@ Process started wait some time depending on the number of images you selected.
 Process finished, check for the results in your output folder.
 
 
+
 ![image](https://user-images.githubusercontent.com/7548709/226599451-d7647339-ae8f-4769-afd1-836800646076.png)
