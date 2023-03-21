@@ -15,10 +15,12 @@ Next select folder with pictures
 ![image](https://user-images.githubusercontent.com/7548709/226597477-7f31e63c-c5e5-4949-b7f0-0c861f0d4abe.png)
 
 
-Next select folder with pictures
+Pictures will be loaded
 
 ![image](https://user-images.githubusercontent.com/7548709/226597755-cc6be000-a221-470d-b7e2-8d158050dcf8.png)
 
+
+Next select folder for the output pictures ( can be any, in my example its the results folder in the CodeFormer )
 
 ![image](https://user-images.githubusercontent.com/7548709/226598010-495f45e0-3a4d-481c-9f24-f4079dbd12d1.png)
 
