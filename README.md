@@ -23,7 +23,8 @@ Next select folder with pictures ( can select any, in my example its the images 
 Pictures will be loaded.
 
 
-![image](https://user-images.githubusercontent.com/7548709/226597755-cc6be000-a221-470d-b7e2-8d158050dcf8.png)
+![image](https://user-images.githubusercontent.com/7548709/226614971-23cb1b2b-9629-4fd9-9083-8270f44ce55b.png)
+
 
 
 Next select folder for the output pictures ( can be any, in my example its the results folder in the CodeFormer )
