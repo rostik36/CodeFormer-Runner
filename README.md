@@ -29,6 +29,7 @@ Next select folder with pictures ( can select any, in my example its the images 
 Pictures will be loaded.
 
 
+![image](https://user-images.githubusercontent.com/7548709/226619615-6df36b92-e655-4fa1-af27-d8cd603b6ab4.png)
 
 
 
