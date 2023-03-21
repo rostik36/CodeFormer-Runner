@@ -1,6 +1,7 @@
 # CodeFormer-Runner
 
 front-end app for CodeFormer (AI Face Restoration) https://github.com/sczhou/CodeFormer
+runs only on windows
 
 Note: Envairoment name must be 'codeformer' as in the installation guide in the git above
 ```
