@@ -3,11 +3,13 @@
 front-end app for CodeFormer (AI Face Restoration) https://github.com/sczhou/CodeFormer
 
 Note: Envairoment name must be 'codeformer' as in the installation guide in the git above
-"
+````
+```
 # create new anaconda env
 conda create -n codeformer python=3.8 -y
 conda activate codeformer
-"
+```
+````
 
 
 
