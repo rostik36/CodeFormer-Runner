@@ -1,5 +1,10 @@
 # CodeFormer-Runner
 
+Front for https://github.com/sczhou/CodeFormer
+
+Note:
+
+
 
 First of all click on the first dir to select the python app execute file.
 
