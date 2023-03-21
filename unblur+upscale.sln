@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unblur+upscale", "unblur+upscale\unblur+upscale.csproj", "{53699659-0F0B-4B00-A405-2BC7D754609E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53699659-0F0B-4B00-A405-2BC7D754609E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53699659-0F0B-4B00-A405-2BC7D754609E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53699659-0F0B-4B00-A405-2BC7D754609E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53699659-0F0B-4B00-A405-2BC7D754609E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EA96828-87A2-4D39-A6C6-CC0494A9D02A}
+	EndGlobalSection
+EndGlobal
